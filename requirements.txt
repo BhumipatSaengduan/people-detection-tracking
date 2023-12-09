@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+opencv-python
+ultralytics
+deep-sort-realtime
+gdown
